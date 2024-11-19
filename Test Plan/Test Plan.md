@@ -40,10 +40,10 @@ This test plan covers the following areas:
 
 ## 5. Test Schedule
 
-- **Test Case Design & Review**: Date 1
-- **Test Execution**: Date 2
-- **Defect Reporting & Resolution**: Date 3
-- **Test Closure**: Date 4
+- **Test Case Design & Review**: 18-11-2024
+- **Test Execution**: 19-11-2024
+- **Defect Reporting & Resolution**: 20-11-2024
+- **Test Closure**: 21-11-2024
 
 ## 6. Defect Reporting and Tracking
 
