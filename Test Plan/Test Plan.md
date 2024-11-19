@@ -112,14 +112,50 @@ Test Plan Report: Hackathon Research Hub
   - Mitigation: Use responsive design testing tools and ensure compatibility testing across all major browsers.
 
 
-8. Approval
-  Test plan, test cases, and defect reports will be reviewed and approved by the project stakeholders before execution.
+8. Entry Criteria
+  Testing will begin when the following conditions are met:
+  
+    1. Requirements:
+      - All functional and non-functional requirements are documented and approved by stakeholders.
+    
+    2. Test Environment:
+      - The testing environment, including browsers, devices, and tools, is set up and validated for use.
+    
+    3. Test Cases:
+      - Test cases have been reviewed and approved by the QA team and stakeholders.
+    
+    4. Test Data:
+      - Test data is prepared and ready for test case execution.
+    
+    5. Build Availability:
+      - A stable build of the application, ready for testing, is available.
+    
+    6. Dependencies:
+      - All dependent modules or components are available, and external APIs/services are ready for integration testing (if applicable).
 
 
-9. Exit Criteria
-
+9. Exit Criteria (Expanded)
   Testing will be considered complete when:
+  
+    1. Defect Resolution:
+      - All critical and high-severity defects are resolved or deferred with approval from stakeholders.
+      - No open defects that impede the core functionality.
+    
+    2. Test Case Execution:
+      - All planned test cases have been executed, with a minimum pass rate determined during the test planning phase.
+    
+    3. Test Reports:
+      - Test results, including defect reports, have been documented, reviewed, and shared with project stakeholders.
+    
+    4. Stakeholder Approval: 
+      - Final approval of testing completion is provided by project stakeholders.
+    
+    5. Regression Testing:
+      - All regression tests have been performed to verify that recent changes do not break existing functionality.
+    
+    6. Performance and Usability Metrics:
+      - Performance benchmarks and usability standards have been met.
 
-    -All critical defects have been resolved or deferred.
-    -All planned test cases have been executed.
-    -Test results have been documented and shared with stakeholders.
+
+10. Approval
+  Test plan, test cases, and defect reports will be reviewed and approved by the project stakeholders before execution.
